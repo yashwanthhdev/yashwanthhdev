@@ -1,8 +1,8 @@
 <div align="center">
 
-  <!-- 👑 USER'S OFFICIAL YASHZ BANNER (Used once at the top) -->
+  <!-- 👑 OFFICIAL YASHWANTHHDEV BANNER (Used once at the top) -->
   <a href="https://github.com/yashwanthhdev">
-    <img src="assets/banner.png" width="100%" alt="YASHZ — Yashwanth H B" />
+    <img src="assets/banner.png" width="100%" alt="yashwanthhdev — Yashwanth H B" />
   </a>
 
   <br/><br/>
