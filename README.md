@@ -8,17 +8,15 @@
   <br/><br/>
 
   <!-- 🌟 GREETING & MANIFESTO -->
-  <h1>Namaste 🙏 I'm Yashwanth H B</h1>
+  <h1>Hi, I'm Yashwanth H B</h1>
 
   <p align="center" style="font-size: 15px; line-height: 1.6;">
-    <em>Transforming complex telemetry and raw code into resilient architectures, threat deception engines, and high-impact digital experiences.</em>
-    <br/>
-    <strong>Electronics &amp; Communication Engineering (ECE) Scholar @ Maharaja Institute of Technology, Mysore • 4x Hackathon Champion</strong>
+    <em>ECE student at Maharaja Institute of Technology, Mysore • 4x Hackathon Podium Finisher</em>
   </p>
 
   <br/>
 
-  <!-- Sleek Minimalist Connect Badges -->
+  <!-- Minimalist Connect Badges -->
   <p align="center">
     <a href="mailto:yashuhb18@gmail.com">
       <img src="https://img.shields.io/badge/GMAIL-CONTACT-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
@@ -28,12 +26,12 @@
       <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     &nbsp;
-    <a href="https://github.com/yashuhb18" target="_blank">
+    <a href="https://github.com/yashwanthhdev" target="_blank">
       <img src="https://img.shields.io/badge/GITHUB-PROJECTS-18181b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
     &nbsp;
-    <a href="https://yashuhb18.github.io/yashuhb18/" target="_blank">
-      <img src="https://img.shields.io/badge/LIVE%20PORTAL-EXPLORE-f59e0b?style=for-the-badge&logo=rocket&logoColor=black" alt="Live Portal" />
+    <a href="https://portfolio-yashz.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/PORTFOLIO-WEBSITE-f59e0b?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" />
     </a>
   </p>
 
@@ -41,40 +39,33 @@
 
 <hr/>
 
-<!-- ==================== 💫 ABOUT ME ==================== -->
-### 💫 About Me
+<!-- ==================== ABOUT ME ==================== -->
+### About Me
 
 <table>
   <tr>
     <td width="65%" valign="top">
-      <h3>Hi, I'm Yashwanth H B 👋</h3>
+      <h3>Hi, I'm Yashwanth H B</h3>
       <p>
-        I'm an ECE student who enjoys building things, exploring new technologies, and learning by doing. I'm interested in cybersecurity, software development, and cloud computing, but I also have a creative side that involves digital design, video editing, and content creation.
+        ECE student at Maharaja Institute of Technology, Mysore. I enjoy building things, exploring new technologies, and learning by doing. Interested in cybersecurity, software development, cloud computing, and digital design.
       </p>
       <p>
-        I like experimenting with ideas, learning new tools, and turning what I learn into real projects. I'm still growing as a developer, and there's a lot I want to explore, but I'm always up for a new challenge.
+        4x Hackathon podium finisher. Always experimenting with ideas, learning new tools, and turning what I learn into real projects.
       </p>
       <p>
-        🏆 I've participated in hackathons and earned <strong>four podium finishes</strong>, each giving me a chance to learn something new and push myself further.
-      </p>
-      <p>
-        🎓 Currently studying <strong>Electronics and Communication Engineering</strong> at <strong>Maharaja Institute of Technology, Mysore</strong>.
-      </p>
-      <p>
-        ⚡ <strong>Interests:</strong> Cybersecurity, Python, full-stack development, networking, cloud computing, digital design, and content creation.
+        <strong>Interests:</strong> Cybersecurity, Python, full-stack development, networking, cloud computing, and digital design.
       </p>
       <br/>
-      <p><strong>📫 Connect with me:</strong></p>
+      <p><strong>Connect with me:</strong></p>
       <ul>
-        <li>✉️ <strong>Email:</strong> <a href="mailto:yashuhb18@gmail.com">yashuhb18@gmail.com</a></li>
-        <li>💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/yashwanthhb" target="_blank">linkedin.com/in/yashwanthhb</a></li>
-        <li>🐙 <strong>GitHub:</strong> <a href="https://github.com/yashuhb18" target="_blank">github.com/yashuhb18</a></li>
-        <li>🌐 <strong>Portfolio:</strong> <a href="https://yashuhb18.github.io/yashuhb18/" target="_blank">My website</a></li>
+        <li>Email: <a href="mailto:yashuhb18@gmail.com">yashuhb18@gmail.com</a></li>
+        <li>LinkedIn: <a href="https://www.linkedin.com/in/yashwanthhb" target="_blank">linkedin.com/in/yashwanthhb</a></li>
+        <li>GitHub: <a href="https://github.com/yashwanthhdev" target="_blank">github.com/yashwanthhdev</a></li>
+        <li>Portfolio: <a href="https://portfolio-yashz.vercel.app/" target="_blank">My website</a></li>
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
-      <!-- Pixel Art Avatar -->
-      <img src="assets/avatar.png" width="280" alt="Yashwanth H B — Pixel Art Avatar" />
+      <img src="assets/avatar.png" width="280" alt="Yashwanth H B" />
     </td>
   </tr>
 </table>
