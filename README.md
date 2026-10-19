@@ -151,37 +151,11 @@
 
 <hr/>
 
-<!-- ==================== 🗂️ LANGUAGES & TOOLS ==================== -->
-### 🗂️ Languages &amp; tools I Have placed My Hands On
+<!-- ==================== LANGUAGES & TOOLS ==================== -->
+### Languages &amp; tools I Have placed My Hands On
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,react,nextjs,ts,js,c,cpp,bash,html,css,nodejs,express,tailwind,vite,docker,git,github,linux,postgres,mongodb,redux,vscode,postman&perline=8" alt="Languages and tools" />
-</div>
-
-<hr/>
-
-<!-- ==================== 💻 TECH STACK BADGES ==================== -->
-### 💻 Tech Stack:
-
-<div align="center">
-
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-
-  <br/>
-
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-
+  <img src="assets/tools_marquee.svg" width="100%" alt="Languages &amp; Creative Tools Marquee" />
 </div>
 
 <hr/>
