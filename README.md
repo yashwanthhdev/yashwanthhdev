@@ -1,54 +1,63 @@
 <div align="center">
 
-  <!-- 🕷️ HERO BANNER (Matches Joshua Thadi's widescreen top banner) -->
+  <!-- 👾 RETRO-PIXEL DEVELOPER HERO BANNER -->
   <a href="https://github.com/yashwanthhdev">
-    <img src="assets/spidey_coder_master_banner.png" width="100%" alt="Yashwanth H B — Full Stack Architect • DevSecOps • AI Systems" />
+    <img src="assets/pixel_master_banner.png" width="100%" alt="Yashwanth H B — Full Stack Architect • DevSecOps • AI Systems" />
   </a>
 
   <br/><br/>
 
-  <!-- 🌟 GREETING HEADER (Exact Joshua Thadi style) -->
+  <!-- 🌟 GREETING & INTRO -->
   <h1>Namaste 🙏 I'm Yashwanth H B</h1>
 
+  <p align="center" style="font-size: 15px; color: #64748b; line-height: 1.6;">
+    <em>"Engineering resilient distributed architectures, hardware threat deception systems, and AI forensic audit engines."</em>
+    <br/>
+    <strong>Electronics &amp; Communication Engineering (ECE) Scholar @ Maharaja Institute of Technology, Mysore • 4x Hackathon Champion ⚡</strong>
+  </p>
+
+  <br/>
+
+  <!-- Sleek Minimalist Connect Badges -->
   <p align="center">
-    🌟 Full Stack Architect &amp; DevSecOps operative focusing on distributed systems, AI audit engines, and hardware threat deception. Pursuing Electronics &amp; Communication Engineering (ECE) at Maharaja Institute of Technology, Mysore. Built to engineer unstoppable software ⚡.
+    <a href="mailto:yashwanthhb18@gmail.com">
+      <img src="https://img.shields.io/badge/GMAIL-CONTACT-e11824?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    &nbsp;
+    <a href="https://linkedin.com/in/yashwanthhb18" target="_blank">
+      <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0284c7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/yashwanthhdev?tab=repositories" target="_blank">
+      <img src="https://img.shields.io/badge/GITHUB-PROJECTS-111926?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    &nbsp;
+    <a href="https://yashuhb18.github.io/yashuhb18/" target="_blank">
+      <img src="https://img.shields.io/badge/LIVE%20PORTAL-EXPLORE-7c3aed?style=for-the-badge&logo=rocket&logoColor=white" alt="Live Portal" />
+    </a>
   </p>
 
 </div>
 
 <hr/>
 
-<!-- ==================== 💫 ABOUT ME (Exact Joshua Thadi 2-Column with Desk Coder) ==================== -->
+<!-- ==================== 💫 ABOUT ME (Split Layout with Pixel Avatar) ==================== -->
 ### 💫 About Me
 
 <table>
   <tr>
-    <td width="60%" valign="top">
+    <td width="64%" valign="top">
       <br/>
-      <p>⏳ I am currently architecting scalable full-stack applications &amp; autonomous threat deception platforms.</p>
-      <p>🏆 <strong>4x Hackathon Champion &amp; Finalist</strong> — engineered winning platforms in 24–36 hour sprints (JanDarpan, RoomiFY, CyberTwin, PHANTOM).</p>
-      <p>💬 Ask me about React, Next.js, FastAPI, Python, TypeScript, Docker &amp; DevSecOps Pipelines.</p>
-      <p>⚡ Interest in Hardware Threat Hunting, MITRE ATT&amp;CK Matrix, AI Digital Twins &amp; Polygon Web3.</p>
-      <p>✨ I only like perfection.</p>
-      <br/>
-      <p><strong>🌟 Reach Me on:</strong></p>
-      <p>
-        <a href="mailto:yashwanthhb18@gmail.com">
-          <img src="https://img.shields.io/badge/GMAIL-CONTACT-e11824?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-        </a>
-        &nbsp;
-        <a href="https://linkedin.com/in/yashwanthhb18" target="_blank">
-          <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0284c7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-        </a>
-        &nbsp;
-        <a href="https://github.com/yashwanthhdev?tab=repositories" target="_blank">
-          <img src="https://img.shields.io/badge/GITHUB-PROJECTS-111926?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-        </a>
-      </p>
+      <p>🚀 <strong>Who I Am:</strong> Full Stack Architect &amp; DevSecOps Operative based in Karnataka, India.</p>
+      <p>🎓 <strong>Academics:</strong> Pursuing Electronics &amp; Communication Engineering (ECE) at <strong>Maharaja Institute of Technology, Mysore</strong>.</p>
+      <p>🏆 <strong>Hackathons:</strong> 4x National &amp; State Level Champion — taking complex challenges from whiteboard to judged, live architectures in 24–36 hour timers.</p>
+      <p>🛡️ <strong>Security &amp; AI:</strong> Focused on hardware-level telemetry extraction, MITRE ATT&amp;CK threat mapping, canary deception &amp; AI forensic audit engines.</p>
+      <p>💬 <strong>Ask Me About:</strong> Python, FastAPI, React, Next.js, TypeScript, Docker, Microservices &amp; DevSecOps Pipelines.</p>
+      <p>⚡ <strong>Engineering Creed:</strong> Clean code, defensive architecture by default, zero unnecessary bloat.</p>
     </td>
-    <td width="40%" align="center" valign="middle">
-      <!-- Coder Spider-Man at Desk (Transparent background matches both Light and Dark theme!) -->
-      <img src="assets/spidey_coder_transparent.png" width="340" alt="Coder Spider-Man at Battlestation" />
+    <td width="36%" align="center" valign="middle">
+      <!-- Pixel Art Developer Avatar -->
+      <img src="assets/avatar_card.png" width="280" alt="Yashwanth H B — Pixel Art Avatar" />
     </td>
   </tr>
 </table>
@@ -61,7 +70,7 @@
 * 🥇 **JanDarpan** — **1st Prize (National Level)**
   > *Dhanalakshmi Srinivasan College of Engineering, Tamil Nadu*
   > Citizen Governance &amp; AI Forensic Audit Engine auditing **4,290+ government schemes** in real-time with GLM-4 &amp; Polygon blockchain ledger.
-  > `GLM-4 AI` • `Polygon Web3` • `React` • `Node.js`
+  > `GLM-4 AI` • `Polygon Web3` • `React` • `Node.js` • `FastAPI`
 
 * 🥇 **RoomiFY** — **1st Prize (Inter-College)**
   > *Ethnotech Academy*
@@ -85,7 +94,7 @@
 
 <div align="center">
 
-  <p><em>Spider-Man patrolling the 52-week contribution skyline — click below to enter the live arcade game with real-time 1-commit/sec stream:</em></p>
+  <p><em>Real-time commit telemetry across 52 weeks with animated Spider-Man crawler — click below to play:</em></p>
 
   <a href="https://yashuhb18.github.io/yashuhb18/" target="_blank">
     <img src="assets/spider-commit-game.svg" width="100%" alt="Spider-Man Commit Game Board" />
@@ -94,11 +103,11 @@
   <br/><br/>
 
   <a href="https://yashuhb18.github.io/yashuhb18/" target="_blank">
-    <img src="https://img.shields.io/badge/PLAY%20LIVE%20ARCADE-1%20COMMIT%2FSEC%20STREAM-e11824?style=for-the-badge&logo=target&logoColor=white" alt="Enter Live Arcade" />
+    <img src="https://img.shields.io/badge/PLAY%20LIVE%20STREAM-1%20COMMIT%2FSEC-0284c7?style=for-the-badge&logo=target&logoColor=white" alt="Live Stream" />
   </a>
   &nbsp;
   <a href="https://yashuhb18.github.io/yashuhb18/#terminal" target="_blank">
-    <img src="https://img.shields.io/badge/LAUNCH%20CLI-SPIDER%20TERMINAL-0284c7?style=for-the-badge&logo=gnubash&logoColor=white" alt="Spider Terminal" />
+    <img src="https://img.shields.io/badge/LAUNCH%20INTERACTIVE%20CLI-TERMINAL-7c3aed?style=for-the-badge&logo=gnubash&logoColor=white" alt="Terminal" />
   </a>
 
 </div>
@@ -106,7 +115,7 @@
 <hr/>
 
 <!-- ==================== ⚔️ FLAGSHIP PROJECTS ==================== -->
-### ⚔️ Flagship Projects &amp; Deployed Systems
+### ⚔️ Flagship Systems &amp; Tactical Deployments
 
 * **[PHANTOOM](https://github.com/yashuhb18/PHANTOOM)** — `Autonomous Hardware Threat Hunting & Deception Platform`
   > Real-time telemetry extraction, hardware canary decoys & automated MITRE ATT&CK adversary evasion analysis.
@@ -134,7 +143,7 @@
 
 <hr/>
 
-<!-- ==================== 🗂️ LANGUAGES & TOOLS (Exact Joshua Thadi Icon Grid) ==================== -->
+<!-- ==================== 🗂️ LANGUAGES & TOOLS ==================== -->
 ### 🗂️ Languages &amp; tools I Have placed My Hands On
 
 <div align="center">
@@ -143,7 +152,7 @@
 
 <hr/>
 
-<!-- ==================== 💻 TECH STACK BADGES (Exact Joshua Thadi Style) ==================== -->
+<!-- ==================== 💻 TECH STACK BADGES ==================== -->
 ### 💻 Tech Stack:
 
 <div align="center">
@@ -169,7 +178,7 @@
 
 <hr/>
 
-<!-- ==================== SUPPORT ME (Exact Joshua Thadi Style) ==================== -->
+<!-- ==================== SUPPORT ME & FOOTER ==================== -->
 <div align="center">
 
   <h3>Support Me 🔥</h3>
@@ -180,13 +189,8 @@
 
   <br/><br/>
 
-  <!-- Panoramic Footer Scene (Transparent background blends into Light and Dark theme!) -->
-  <img src="assets/spider_city_footer.png" width="100%" alt="Spider-Man City Panorama" />
-
-  <br/>
-
   <p style="color: #64748b; font-size: 13px;">
-    <em>"Friendly neighborhood developer building secure, unstoppable software."</em> 🕷️
+    <em>"It's not who I am underneath, but what I build that defines me."</em> ⚡
   </p>
   <p style="color: #94a3b8; font-size: 11px; font-family: monospace;">
     ⚡ Designed &amp; Engineered by <strong>Yashwanth H B</strong> • Mysore, Karnataka, India 🇮🇳
