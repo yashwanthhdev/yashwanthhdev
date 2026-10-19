@@ -1,39 +1,39 @@
 <div align="center">
 
-  <!-- 👾 RETRO-PIXEL DEVELOPER HERO BANNER -->
+  <!-- 👑 USER'S OFFICIAL YASHZ BANNER (Used once at the top) -->
   <a href="https://github.com/yashwanthhdev">
-    <img src="assets/pixel_master_banner.png" width="100%" alt="Yashwanth H B — Full Stack Architect • DevSecOps • AI Systems" />
+    <img src="assets/banner.png" width="100%" alt="YASHZ — Yashwanth H B" />
   </a>
 
   <br/><br/>
 
-  <!-- 🌟 GREETING & INTRO -->
+  <!-- 🌟 GREETING & MANIFESTO -->
   <h1>Namaste 🙏 I'm Yashwanth H B</h1>
 
-  <p align="center" style="font-size: 15px; color: #64748b; line-height: 1.6;">
-    <em>"Engineering resilient distributed architectures, hardware threat deception systems, and AI forensic audit engines."</em>
+  <p align="center" style="font-size: 15px; line-height: 1.6;">
+    <em>Transforming complex telemetry and raw code into resilient architectures, threat deception engines, and high-impact digital experiences.</em>
     <br/>
-    <strong>Electronics &amp; Communication Engineering (ECE) Scholar @ Maharaja Institute of Technology, Mysore • 4x Hackathon Champion ⚡</strong>
+    <strong>Electronics &amp; Communication Engineering (ECE) Scholar @ Maharaja Institute of Technology, Mysore • 4x Hackathon Champion</strong>
   </p>
 
   <br/>
 
   <!-- Sleek Minimalist Connect Badges -->
   <p align="center">
-    <a href="mailto:yashwanthhb18@gmail.com">
-      <img src="https://img.shields.io/badge/GMAIL-CONTACT-e11824?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <a href="mailto:yashuhb18@gmail.com">
+      <img src="https://img.shields.io/badge/GMAIL-CONTACT-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
     &nbsp;
     <a href="https://linkedin.com/in/yashwanthhb18" target="_blank">
-      <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0284c7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     &nbsp;
     <a href="https://github.com/yashwanthhdev?tab=repositories" target="_blank">
-      <img src="https://img.shields.io/badge/GITHUB-PROJECTS-111926?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GITHUB-PROJECTS-18181b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
     &nbsp;
     <a href="https://yashuhb18.github.io/yashuhb18/" target="_blank">
-      <img src="https://img.shields.io/badge/LIVE%20PORTAL-EXPLORE-7c3aed?style=for-the-badge&logo=rocket&logoColor=white" alt="Live Portal" />
+      <img src="https://img.shields.io/badge/LIVE%20PORTAL-EXPLORE-f59e0b?style=for-the-badge&logo=rocket&logoColor=black" alt="Live Portal" />
     </a>
   </p>
 
@@ -41,7 +41,7 @@
 
 <hr/>
 
-<!-- ==================== 💫 ABOUT ME (Split Layout with Pixel Avatar) ==================== -->
+<!-- ==================== 💫 ABOUT ME (Pixel Avatar used HERE, only once) ==================== -->
 ### 💫 About Me
 
 <table>
@@ -50,14 +50,14 @@
       <br/>
       <p>🚀 <strong>Who I Am:</strong> Full Stack Architect &amp; DevSecOps Operative based in Karnataka, India.</p>
       <p>🎓 <strong>Academics:</strong> Pursuing Electronics &amp; Communication Engineering (ECE) at <strong>Maharaja Institute of Technology, Mysore</strong>.</p>
-      <p>🏆 <strong>Hackathons:</strong> 4x National &amp; State Level Champion — taking complex challenges from whiteboard to judged, live architectures in 24–36 hour timers.</p>
+      <p>🏆 <strong>Hackathons:</strong> 4x National &amp; State Level Champion — taking complex challenges from whiteboard to judged, live architectures under 24–36 hour timers.</p>
       <p>🛡️ <strong>Security &amp; AI:</strong> Focused on hardware-level telemetry extraction, MITRE ATT&amp;CK threat mapping, canary deception &amp; AI forensic audit engines.</p>
       <p>💬 <strong>Ask Me About:</strong> Python, FastAPI, React, Next.js, TypeScript, Docker, Microservices &amp; DevSecOps Pipelines.</p>
       <p>⚡ <strong>Engineering Creed:</strong> Clean code, defensive architecture by default, zero unnecessary bloat.</p>
     </td>
     <td width="36%" align="center" valign="middle">
-      <!-- Pixel Art Developer Avatar -->
-      <img src="assets/avatar_card.png" width="280" alt="Yashwanth H B — Pixel Art Avatar" />
+      <!-- Pixel Art Avatar (Featured only here) -->
+      <img src="assets/avatar.png" width="280" alt="Yashwanth H B — Pixel Art Avatar" />
     </td>
   </tr>
 </table>
@@ -89,15 +89,15 @@
 
 <hr/>
 
-<!-- ==================== 🎮 SPIDER-MAN COMMIT ARCADE GAME ==================== -->
-### 🎮 The Spider-Verse Commit Arcade
+<!-- ==================== 🎮 COMMIT ARCADE ==================== -->
+### 🎮 The Commit Telemetry &amp; Live Arcade
 
 <div align="center">
 
-  <p><em>Real-time commit telemetry across 52 weeks with animated Spider-Man crawler — click below to play:</em></p>
+  <p><em>Real-time commit telemetry across 52 weeks with animated Spider-Man crawler — click below to enter the live streaming portal:</em></p>
 
   <a href="https://yashuhb18.github.io/yashuhb18/" target="_blank">
-    <img src="assets/spider-commit-game.svg" width="100%" alt="Spider-Man Commit Game Board" />
+    <img src="assets/spider-commit-game.svg" width="100%" alt="Commit Telemetry Arcade" />
   </a>
 
   <br/><br/>
@@ -115,7 +115,7 @@
 <hr/>
 
 <!-- ==================== ⚔️ FLAGSHIP PROJECTS ==================== -->
-### ⚔️ Flagship Systems &amp; Tactical Deployments
+### ⚔️ Flagship Projects &amp; Deployed Systems
 
 * **[PHANTOOM](https://github.com/yashuhb18/PHANTOOM)** — `Autonomous Hardware Threat Hunting & Deception Platform`
   > Real-time telemetry extraction, hardware canary decoys & automated MITRE ATT&CK adversary evasion analysis.
