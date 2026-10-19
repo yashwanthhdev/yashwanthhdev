@@ -1,14 +1,14 @@
 <div align="center">
 
-  <!-- 🕷️ SPIDER-VERSE HERO BANNER (Peter Parker & Miles Morales framing identity) -->
+  <!-- 🕷️ MASTER HERO BANNER: CODER SPIDER-MAN AT BATTLESTATION -->
   <a href="https://github.com/yashwanthhdev">
-    <img src="assets/spider_verse_banner.png" width="100%" alt="Yashwanth H B — Full Stack Architect • DevSecOps • AI Systems" />
+    <img src="assets/spidey_coder_master_banner.png" width="100%" alt="Yashwanth H B — Full Stack Architect • DevSecOps • AI Systems" />
   </a>
 
   <br/><br/>
 
   <!-- Tagline Quote -->
-  <p align="center">
+  <p align="center" style="font-size: 15px; color: #94a3b8; line-height: 1.6;">
     <em>"With great compute comes great responsibility."</em>
     <br/>
     <strong>Transforming complex telemetry and raw code into resilient architectures, threat deception engines, and high-impact digital experiences.</strong>
@@ -16,7 +16,7 @@
 
   <br/>
 
-  <!-- Clean Minimalist Social Links -->
+  <!-- Minimalist Connect Buttons -->
   <p align="center">
     <a href="mailto:yashwanthhb18@gmail.com">
       <img src="https://img.shields.io/badge/GMAIL-CONTACT-e11824?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
@@ -48,13 +48,13 @@
         Full Stack Architect, DevSecOps operative, and Electronics &amp; Communication Engineering (ECE) scholar at <strong>Maharaja Institute of Technology, Mysore</strong>.
       </p>
       <p>
-        I specialize in engineering distributed web platforms that never break under load, designing autonomous hardware threat-hunting architectures, and building AI forensic audit engines.
+        I spend my hours building distributed web platforms that refuse to break under pressure, reverse-engineering hardware telemetry for threat hunting, and architecting AI forensic audit engines that catch what humans miss.
       </p>
       <ul>
-        <li>🚀 <strong>Building:</strong> High-throughput web applications, AI digital twins &amp; security canaries.</li>
-        <li>🛡️ <strong>Cyber Defense:</strong> Hardware-level telemetry, MITRE ATT&amp;CK threat mapping &amp; deception tactics.</li>
-        <li>🏆 <strong>Hackathons:</strong> 4x National &amp; State Level Champion — architecting full-scale solutions in 24–36 hour sprints.</li>
-        <li>⚡ <strong>Creed:</strong> Clean architecture, defensive engineering by default, and zero unnecessary bloat.</li>
+        <li>🚀 <strong>Building:</strong> High-throughput web systems, AI security digital twins &amp; hardware canaries.</li>
+        <li>🛡️ <strong>Cyber Defense:</strong> MITRE ATT&amp;CK threat mapping, keystroke anomaly detection &amp; DevSecOps automation.</li>
+        <li>🏆 <strong>Hackathon Champion:</strong> 4x National &amp; State Level Winner — taking ideas from zero to judged, deployed products in 24–36 hour sprints.</li>
+        <li>⚡ <strong>Engineering Creed:</strong> Clean code, defensive architecture by default, and zero unnecessary bloat.</li>
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
@@ -70,7 +70,7 @@
 
 <div align="center">
 
-  <p><em>Watch Spider-Man patrol the 52-week contribution skyline — click the arcade board to enter the live streaming web game:</em></p>
+  <p><em>Watch Spider-Man patrol the 52-week contribution skyline — click below to enter the live streaming web game with real-time commits:</em></p>
 
   <a href="https://yashuhb18.github.io/yashuhb18/" target="_blank">
     <img src="assets/spider-commit-game.svg" width="100%" alt="Spider-Man Commit Game Board" />
