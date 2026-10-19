@@ -1,7 +1,9 @@
 <div align="center">
 
-  <!-- 🕷️ SPIDER-MAN HERO BANNER (Generated from user's custom photo) -->
-  <img src="assets/spidey_banner.png" width="100%" alt="Yashwanth H B — Full Stack Architect • DevSecOps • AI Systems" />
+  <!-- 🕷️ SPIDER-VERSE HERO BANNER (Peter Parker & Miles Morales framing identity) -->
+  <a href="https://github.com/yashwanthhdev">
+    <img src="assets/spider_verse_banner.png" width="100%" alt="Yashwanth H B — Full Stack Architect • DevSecOps • AI Systems" />
+  </a>
 
   <br/><br/>
 
@@ -21,11 +23,15 @@
     </a>
     &nbsp;
     <a href="https://linkedin.com/in/yashwanthhb18" target="_blank">
-      <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-18181b?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0284c7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     &nbsp;
     <a href="https://github.com/yashwanthhdev?tab=repositories" target="_blank">
-      <img src="https://img.shields.io/badge/GITHUB-PROJECTS-18181b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GITHUB-PROJECTS-111926?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    &nbsp;
+    <a href="https://yashuhb18.github.io/yashuhb18/" target="_blank">
+      <img src="https://img.shields.io/badge/LIVE%20ARCADE-PLAY-e11824?style=for-the-badge&logo=retroarch&logoColor=white" alt="Play Live Arcade" />
     </a>
   </p>
 
@@ -33,29 +39,54 @@
 
 <hr style="border: 0; height: 1px; background: #e11824; opacity: 0.3; margin: 24px 0;" />
 
-<!-- ==================== ABOUT ME (Split Layout with Spidey Art) ==================== -->
+<!-- ==================== ABOUT ME (Split Layout with Miles Morales) ==================== -->
 <table>
   <tr>
     <td width="65%" valign="top">
       <h2>Hey, I'm Yashwanth 🕷️</h2>
       <p>
-        Full Stack Architect, DevSecOps researcher, and Electronics &amp; Communication Engineering (ECE) scholar at <strong>Maharaja Institute of Technology, Mysore</strong>.
+        Full Stack Architect, DevSecOps operative, and Electronics &amp; Communication Engineering (ECE) scholar at <strong>Maharaja Institute of Technology, Mysore</strong>.
       </p>
       <p>
-        I specialize in building distributed web applications that scale effortlessly, developing autonomous hardware threat-hunting architectures, and engineering AI forensic audit systems.
+        I specialize in engineering distributed web platforms that never break under load, designing autonomous hardware threat-hunting architectures, and building AI forensic audit engines.
       </p>
       <ul>
-        <li>🚀 <strong>Building:</strong> High-throughput web platforms &amp; AI-driven security pipelines.</li>
-        <li>🛡️ <strong>Security Focus:</strong> Hardware-level telemetry, MITRE ATT&amp;CK threat mapping &amp; deception canaries.</li>
-        <li>🏆 <strong>Hackathons:</strong> 4x National &amp; State Level Champion — solving real-world challenges in 24–36 hour sprints.</li>
+        <li>🚀 <strong>Building:</strong> High-throughput web applications, AI digital twins &amp; security canaries.</li>
+        <li>🛡️ <strong>Cyber Defense:</strong> Hardware-level telemetry, MITRE ATT&amp;CK threat mapping &amp; deception tactics.</li>
+        <li>🏆 <strong>Hackathons:</strong> 4x National &amp; State Level Champion — architecting full-scale solutions in 24–36 hour sprints.</li>
         <li>⚡ <strong>Creed:</strong> Clean architecture, defensive engineering by default, and zero unnecessary bloat.</li>
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="assets/spidey_card_rounded.png" width="230" alt="Chibi Spider-Man" />
+      <img src="assets/miles_card_rounded.png" width="220" alt="Miles Morales Spider-Man" />
     </td>
   </tr>
 </table>
+
+<br/>
+
+<!-- ==================== 🎮 SPIDER-MAN COMMIT ARCADE GAME ==================== -->
+### 🎮 The Spider-Verse Commit Arcade
+
+<div align="center">
+
+  <p><em>Watch Spider-Man patrol the 52-week contribution skyline — click the arcade board to enter the live streaming web game:</em></p>
+
+  <a href="https://yashuhb18.github.io/yashuhb18/" target="_blank">
+    <img src="assets/spider-commit-game.svg" width="100%" alt="Spider-Man Commit Game Board" />
+  </a>
+
+  <br/><br/>
+
+  <a href="https://yashuhb18.github.io/yashuhb18/" target="_blank">
+    <img src="https://img.shields.io/badge/PLAY%20LIVE%20ARCADE-1%20COMMIT%2FSEC%20STREAM-e11824?style=for-the-badge&logo=target&logoColor=white" alt="Enter Live Arcade" />
+  </a>
+  &nbsp;
+  <a href="https://yashuhb18.github.io/yashuhb18/#terminal" target="_blank">
+    <img src="https://img.shields.io/badge/LAUNCH%20CLI-SPIDER%20TERMINAL-0284c7?style=for-the-badge&logo=gnubash&logoColor=white" alt="Spider Terminal" />
+  </a>
+
+</div>
 
 <br/>
 
