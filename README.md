@@ -174,8 +174,3 @@
   <p style="color: #64748b; font-size: 13px;">
     <em>"It's not who I am underneath, but what I build that defines me."</em> ⚡
   </p>
-  <p style="color: #94a3b8; font-size: 11px; font-family: monospace;">
-    ⚡ Designed &amp; Engineered by <strong>Yashwanth H B</strong> • Mysore, Karnataka, India 🇮🇳
-  </p>
-
-</div>
