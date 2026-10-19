@@ -30,7 +30,7 @@
       <img src="https://img.shields.io/badge/GITHUB-PROJECTS-18181b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
     &nbsp;
-    <a href="https://portfolio-yashz.vercel.app/" target="_blank">
+    <a href="https://yashwanth-dev.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/PORTFOLIO-WEBSITE-f59e0b?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" />
     </a>
   </p>
@@ -61,7 +61,7 @@
         <li>Email: <a href="mailto:yashuhb18@gmail.com">yashuhb18@gmail.com</a></li>
         <li>LinkedIn: <a href="https://www.linkedin.com/in/yashwanthhb" target="_blank">linkedin.com/in/yashwanthhb</a></li>
         <li>GitHub: <a href="https://github.com/yashwanthhdev" target="_blank">github.com/yashwanthhdev</a></li>
-        <li>Portfolio: <a href="https://portfolio-yashz.vercel.app/" target="_blank">My website</a></li>
+        <li>Portfolio: <a href="https://yashwanth-dev.vercel.app/" target="_blank">yashwanth-dev.vercel.app</a></li>
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
