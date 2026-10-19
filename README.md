@@ -24,11 +24,11 @@
       <img src="https://img.shields.io/badge/GMAIL-CONTACT-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
     &nbsp;
-    <a href="https://linkedin.com/in/yashwanthhb18" target="_blank">
+    <a href="https://www.linkedin.com/in/yashwanthhb" target="_blank">
       <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     &nbsp;
-    <a href="https://github.com/yashwanthhdev?tab=repositories" target="_blank">
+    <a href="https://github.com/yashuhb18" target="_blank">
       <img src="https://img.shields.io/badge/GITHUB-PROJECTS-18181b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
     &nbsp;
@@ -41,22 +41,39 @@
 
 <hr/>
 
-<!-- ==================== 💫 ABOUT ME (Pixel Avatar used HERE, only once) ==================== -->
+<!-- ==================== 💫 ABOUT ME ==================== -->
 ### 💫 About Me
 
 <table>
   <tr>
-    <td width="64%" valign="top">
+    <td width="65%" valign="top">
+      <h3>Hi, I'm Yashwanth H B 👋</h3>
+      <p>
+        I'm an ECE student who enjoys building things, exploring new technologies, and learning by doing. I'm interested in cybersecurity, software development, and cloud computing, but I also have a creative side that involves digital design, video editing, and content creation.
+      </p>
+      <p>
+        I like experimenting with ideas, learning new tools, and turning what I learn into real projects. I'm still growing as a developer, and there's a lot I want to explore, but I'm always up for a new challenge.
+      </p>
+      <p>
+        🏆 I've participated in hackathons and earned <strong>four podium finishes</strong>, each giving me a chance to learn something new and push myself further.
+      </p>
+      <p>
+        🎓 Currently studying <strong>Electronics and Communication Engineering</strong> at <strong>Maharaja Institute of Technology, Mysore</strong>.
+      </p>
+      <p>
+        ⚡ <strong>Interests:</strong> Cybersecurity, Python, full-stack development, networking, cloud computing, digital design, and content creation.
+      </p>
       <br/>
-      <p>🚀 <strong>Who I Am:</strong> Full Stack Architect &amp; DevSecOps Operative based in Karnataka, India.</p>
-      <p>🎓 <strong>Academics:</strong> Pursuing Electronics &amp; Communication Engineering (ECE) at <strong>Maharaja Institute of Technology, Mysore</strong>.</p>
-      <p>🏆 <strong>Hackathons:</strong> 4x National &amp; State Level Champion — taking complex challenges from whiteboard to judged, live architectures under 24–36 hour timers.</p>
-      <p>🛡️ <strong>Security &amp; AI:</strong> Focused on hardware-level telemetry extraction, MITRE ATT&amp;CK threat mapping, canary deception &amp; AI forensic audit engines.</p>
-      <p>💬 <strong>Ask Me About:</strong> Python, FastAPI, React, Next.js, TypeScript, Docker, Microservices &amp; DevSecOps Pipelines.</p>
-      <p>⚡ <strong>Engineering Creed:</strong> Clean code, defensive architecture by default, zero unnecessary bloat.</p>
+      <p><strong>📫 Connect with me:</strong></p>
+      <ul>
+        <li>✉️ <strong>Email:</strong> <a href="mailto:yashuhb18@gmail.com">yashuhb18@gmail.com</a></li>
+        <li>💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/yashwanthhb" target="_blank">linkedin.com/in/yashwanthhb</a></li>
+        <li>🐙 <strong>GitHub:</strong> <a href="https://github.com/yashuhb18" target="_blank">github.com/yashuhb18</a></li>
+        <li>🌐 <strong>Portfolio:</strong> <a href="https://yashuhb18.github.io/yashuhb18/" target="_blank">My website</a></li>
+      </ul>
     </td>
-    <td width="36%" align="center" valign="middle">
-      <!-- Pixel Art Avatar (Featured only here) -->
+    <td width="35%" align="center" valign="middle">
+      <!-- Pixel Art Avatar -->
       <img src="assets/avatar.png" width="280" alt="Yashwanth H B — Pixel Art Avatar" />
     </td>
   </tr>
