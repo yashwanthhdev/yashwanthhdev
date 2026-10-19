@@ -1,99 +1,62 @@
 <div align="center">
 
-  <!-- 🕷️ MASTER HERO BANNER: CODER SPIDER-MAN AT BATTLESTATION -->
+  <!-- 🕷️ HERO BANNER (Matches Joshua Thadi's widescreen top banner) -->
   <a href="https://github.com/yashwanthhdev">
     <img src="assets/spidey_coder_master_banner.png" width="100%" alt="Yashwanth H B — Full Stack Architect • DevSecOps • AI Systems" />
   </a>
 
   <br/><br/>
 
-  <!-- Tagline Quote -->
-  <p align="center" style="font-size: 15px; color: #94a3b8; line-height: 1.6;">
-    <em>"With great compute comes great responsibility."</em>
-    <br/>
-    <strong>Transforming complex telemetry and raw code into resilient architectures, threat deception engines, and high-impact digital experiences.</strong>
-  </p>
+  <!-- 🌟 GREETING HEADER (Exact Joshua Thadi style) -->
+  <h1>Namaste 🙏 I'm Yashwanth H B</h1>
 
-  <br/>
-
-  <!-- Minimalist Connect Buttons -->
   <p align="center">
-    <a href="mailto:yashwanthhb18@gmail.com">
-      <img src="https://img.shields.io/badge/GMAIL-CONTACT-e11824?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-    &nbsp;
-    <a href="https://linkedin.com/in/yashwanthhb18" target="_blank">
-      <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0284c7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    &nbsp;
-    <a href="https://github.com/yashwanthhdev?tab=repositories" target="_blank">
-      <img src="https://img.shields.io/badge/GITHUB-PROJECTS-111926?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    &nbsp;
-    <a href="https://yashuhb18.github.io/yashuhb18/" target="_blank">
-      <img src="https://img.shields.io/badge/LIVE%20ARCADE-PLAY-e11824?style=for-the-badge&logo=retroarch&logoColor=white" alt="Play Live Arcade" />
-    </a>
+    🌟 Full Stack Architect &amp; DevSecOps operative focusing on distributed systems, AI audit engines, and hardware threat deception. Pursuing Electronics &amp; Communication Engineering (ECE) at Maharaja Institute of Technology, Mysore. Built to engineer unstoppable software ⚡.
   </p>
 
 </div>
 
-<hr style="border: 0; height: 1px; background: #e11824; opacity: 0.3; margin: 24px 0;" />
+<hr/>
 
-<!-- ==================== ABOUT ME (Split Layout with Miles Morales) ==================== -->
+<!-- ==================== 💫 ABOUT ME (Exact Joshua Thadi 2-Column with Desk Coder) ==================== -->
+### 💫 About Me
+
 <table>
   <tr>
-    <td width="65%" valign="top">
-      <h2>Hey, I'm Yashwanth 🕷️</h2>
+    <td width="60%" valign="top">
+      <br/>
+      <p>⏳ I am currently architecting scalable full-stack applications &amp; autonomous threat deception platforms.</p>
+      <p>🏆 <strong>4x Hackathon Champion &amp; Finalist</strong> — engineered winning platforms in 24–36 hour sprints (JanDarpan, RoomiFY, CyberTwin, PHANTOM).</p>
+      <p>💬 Ask me about React, Next.js, FastAPI, Python, TypeScript, Docker &amp; DevSecOps Pipelines.</p>
+      <p>⚡ Interest in Hardware Threat Hunting, MITRE ATT&amp;CK Matrix, AI Digital Twins &amp; Polygon Web3.</p>
+      <p>✨ I only like perfection.</p>
+      <br/>
+      <p><strong>🌟 Reach Me on:</strong></p>
       <p>
-        Full Stack Architect, DevSecOps operative, and Electronics &amp; Communication Engineering (ECE) scholar at <strong>Maharaja Institute of Technology, Mysore</strong>.
+        <a href="mailto:yashwanthhb18@gmail.com">
+          <img src="https://img.shields.io/badge/GMAIL-CONTACT-e11824?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+        </a>
+        &nbsp;
+        <a href="https://linkedin.com/in/yashwanthhb18" target="_blank">
+          <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0284c7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        </a>
+        &nbsp;
+        <a href="https://github.com/yashwanthhdev?tab=repositories" target="_blank">
+          <img src="https://img.shields.io/badge/GITHUB-PROJECTS-111926?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+        </a>
       </p>
-      <p>
-        I spend my hours building distributed web platforms that refuse to break under pressure, reverse-engineering hardware telemetry for threat hunting, and architecting AI forensic audit engines that catch what humans miss.
-      </p>
-      <ul>
-        <li>🚀 <strong>Building:</strong> High-throughput web systems, AI security digital twins &amp; hardware canaries.</li>
-        <li>🛡️ <strong>Cyber Defense:</strong> MITRE ATT&amp;CK threat mapping, keystroke anomaly detection &amp; DevSecOps automation.</li>
-        <li>🏆 <strong>Hackathon Champion:</strong> 4x National &amp; State Level Winner — taking ideas from zero to judged, deployed products in 24–36 hour sprints.</li>
-        <li>⚡ <strong>Engineering Creed:</strong> Clean code, defensive architecture by default, and zero unnecessary bloat.</li>
-      </ul>
     </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="assets/miles_card_rounded.png" width="220" alt="Miles Morales Spider-Man" />
+    <td width="40%" align="center" valign="middle">
+      <!-- Coder Spider-Man at Desk (Transparent background matches both Light and Dark theme!) -->
+      <img src="assets/spidey_coder_transparent.png" width="340" alt="Coder Spider-Man at Battlestation" />
     </td>
   </tr>
 </table>
 
-<br/>
-
-<!-- ==================== 🎮 SPIDER-MAN COMMIT ARCADE GAME ==================== -->
-### 🎮 The Spider-Verse Commit Arcade
-
-<div align="center">
-
-  <p><em>Watch Spider-Man patrol the 52-week contribution skyline — click below to enter the live streaming web game with real-time commits:</em></p>
-
-  <a href="https://yashuhb18.github.io/yashuhb18/" target="_blank">
-    <img src="assets/spider-commit-game.svg" width="100%" alt="Spider-Man Commit Game Board" />
-  </a>
-
-  <br/><br/>
-
-  <a href="https://yashuhb18.github.io/yashuhb18/" target="_blank">
-    <img src="https://img.shields.io/badge/PLAY%20LIVE%20ARCADE-1%20COMMIT%2FSEC%20STREAM-e11824?style=for-the-badge&logo=target&logoColor=white" alt="Enter Live Arcade" />
-  </a>
-  &nbsp;
-  <a href="https://yashuhb18.github.io/yashuhb18/#terminal" target="_blank">
-    <img src="https://img.shields.io/badge/LAUNCH%20CLI-SPIDER%20TERMINAL-0284c7?style=for-the-badge&logo=gnubash&logoColor=white" alt="Spider Terminal" />
-  </a>
-
-</div>
-
-<br/>
+<hr/>
 
 <!-- ==================== 🏆 HACKATHON VICTORIES ==================== -->
-### 🏆 Hackathon Victories & Recognition
-
-> *"Battle-tested across national and state hackathons — designing, architecting, and defending under high-stakes timers."*
+### 🏆 Hackathon Victories &amp; Recognition
 
 * 🥇 **JanDarpan** — **1st Prize (National Level)**
   > *Dhanalakshmi Srinivasan College of Engineering, Tamil Nadu*
@@ -115,10 +78,35 @@
   > Autonomous Hardware Threat Hunting &amp; Deception Platform mapped to the MITRE ATT&amp;CK matrix with decoy telemetry.
   > `Python` • `FastAPI` • `React` • `MITRE ATT&CK`
 
-<br/>
+<hr/>
+
+<!-- ==================== 🎮 SPIDER-MAN COMMIT ARCADE GAME ==================== -->
+### 🎮 The Spider-Verse Commit Arcade
+
+<div align="center">
+
+  <p><em>Spider-Man patrolling the 52-week contribution skyline — click below to enter the live arcade game with real-time 1-commit/sec stream:</em></p>
+
+  <a href="https://yashuhb18.github.io/yashuhb18/" target="_blank">
+    <img src="assets/spider-commit-game.svg" width="100%" alt="Spider-Man Commit Game Board" />
+  </a>
+
+  <br/><br/>
+
+  <a href="https://yashuhb18.github.io/yashuhb18/" target="_blank">
+    <img src="https://img.shields.io/badge/PLAY%20LIVE%20ARCADE-1%20COMMIT%2FSEC%20STREAM-e11824?style=for-the-badge&logo=target&logoColor=white" alt="Enter Live Arcade" />
+  </a>
+  &nbsp;
+  <a href="https://yashuhb18.github.io/yashuhb18/#terminal" target="_blank">
+    <img src="https://img.shields.io/badge/LAUNCH%20CLI-SPIDER%20TERMINAL-0284c7?style=for-the-badge&logo=gnubash&logoColor=white" alt="Spider Terminal" />
+  </a>
+
+</div>
+
+<hr/>
 
 <!-- ==================== ⚔️ FLAGSHIP PROJECTS ==================== -->
-### ⚔️ Flagship Projects & Deployed Systems
+### ⚔️ Flagship Projects &amp; Deployed Systems
 
 * **[PHANTOOM](https://github.com/yashuhb18/PHANTOOM)** — `Autonomous Hardware Threat Hunting & Deception Platform`
   > Real-time telemetry extraction, hardware canary decoys & automated MITRE ATT&CK adversary evasion analysis.
@@ -144,34 +132,64 @@
   > Secure consultations, patient record exchange, and live clinical coordination.
   > `JavaScript` • `React` • `Cloud APIs` • [🌐 Visit medi-link-six-snowy.vercel.app ↗](https://medi-link-six-snowy.vercel.app)
 
-<br/>
+<hr/>
 
-<!-- ==================== 🧩 TECH STACK ==================== -->
-### 🧩 Languages & Tools
-
-| Domain | Technologies & Arsenal |
-|:---|:---|
-| **Core Languages** | `Python` `TypeScript` `JavaScript` `C` `C++` `Bash` `HTML5` `CSS3` |
-| **Frameworks & Full Stack** | `React` `Next.js` `FastAPI` `Node.js` `Express` `TailwindCSS` `Vite` |
-| **Cybersecurity & Systems** | `MITRE ATT&CK` `Hardware Threat Hunting` `Wireshark` `Linux Kernel` `DevSecOps` |
-| **DevOps & Cloud** | `Docker` `Git` `GitHub Actions` `Polygon Web3` `PostgreSQL` `MongoDB` `Vercel` |
-
-<br/>
+<!-- ==================== 🗂️ LANGUAGES & TOOLS (Exact Joshua Thadi Icon Grid) ==================== -->
+### 🗂️ Languages &amp; tools I Have placed My Hands On
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,react,nextjs,ts,js,nodejs,docker,linux,git,postgres,mongodb,cpp,bash&theme=dark" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,react,nextjs,ts,js,c,cpp,bash,html,css,nodejs,express,tailwind,vite,docker,git,github,linux,postgres,mongodb,redux,vscode,postman&perline=8" alt="Languages and tools" />
 </div>
 
-<br/>
+<hr/>
 
-<hr style="border: 0; height: 1px; background: #e11824; opacity: 0.3; margin: 24px 0;" />
+<!-- ==================== 💻 TECH STACK BADGES (Exact Joshua Thadi Style) ==================== -->
+### 💻 Tech Stack:
 
-<!-- ==================== FOOTER ==================== -->
 <div align="center">
-  <p style="color: #8b949e; font-size: 14px;">
+
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+
+</div>
+
+<hr/>
+
+<!-- ==================== SUPPORT ME (Exact Joshua Thadi Style) ==================== -->
+<div align="center">
+
+  <h3>Support Me 🔥</h3>
+
+  <a href="https://buymeacoffee.com/yashwanthhb18" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="180" alt="Buy Me A Coffee" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Panoramic Footer Scene (Transparent background blends into Light and Dark theme!) -->
+  <img src="assets/spider_city_footer.png" width="100%" alt="Spider-Man City Panorama" />
+
+  <br/>
+
+  <p style="color: #64748b; font-size: 13px;">
     <em>"Friendly neighborhood developer building secure, unstoppable software."</em> 🕷️
   </p>
-  <p style="color: #64748b; font-size: 12px; font-family: monospace;">
+  <p style="color: #94a3b8; font-size: 11px; font-family: monospace;">
     ⚡ Designed &amp; Engineered by <strong>Yashwanth H B</strong> • Mysore, Karnataka, India 🇮🇳
   </p>
+
 </div>
